@@ -1,0 +1,56 @@
+h3{
+    color:red;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    color: red;
+}
+
+#head1{
+    color: red;
+    font-size: 40px;
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.head2{
+    color: red;
+    font-size: 30px;
+}
+nav{
+    background: red;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+ul{
+list-style-type: none;
+text-align: center;
+}
+li{
+    display: inline;
+    
+    font-size: 28px;
+    margin-right:20px;
+}
+a{
+text-decoration: none;
+color: green;
+}
+footer{
+    background-color:lightgray;
+    position: fixed;
+    bottom: 0;
+    width:100%
+    
+
+}
